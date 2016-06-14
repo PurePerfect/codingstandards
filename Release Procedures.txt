@@ -1,0 +1,32 @@
+
+1. Make sure all TODOS are complete
+
+2. Make sure all source files contain license comments at the top
+
+3. Java doc all classes
+
+4. Java doc all packages
+
+5. Run Eclipse cleanup
+
+6. Run Eclipse source formatting
+
+7. Make sure POM contains appropriate author and company info
+
+8. Make sure we are enforcing Java version at compile
+
+9. Update readme
+
+10. Update docbook
+
+A release zip should contain:
+
+/LICENSE.txt
+/README.txt
+/logo.png
+/docs
+/docs/api/
+/src
+/the final jar
+
+11. Tag in version control
