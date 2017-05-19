@@ -20,7 +20,7 @@
 10. Update docbook
 
 A release zip should contain:
-
+ 
 /LICENSE.txt
 /README.txt
 /logo.png
